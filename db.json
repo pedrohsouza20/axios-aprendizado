@@ -1,0 +1,6 @@
+{
+  "users": [
+    { "id": 1, "name": "Pedro Souza", "city": "Montes Claros" },
+    { "id": 2, "name": "Carlos André", "city": "São Paulo" }
+  ]
+}
